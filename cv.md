@@ -6,7 +6,7 @@
 **Phone**: +447477471888  
 **E-mail**: <alena.karpov@gmail.com>    
 **GitHub**: <https://github.com/akarpovauk>  
-**Discord**: Alena_UK#8048 
+**Discord**: Alena_UK#8048  
 [**Instagram**](https://www.instagram.com/_true_story._/?hl=ru) 
 [**Telegram**](https://t.me/alieninuk) 
 [**LinkedIn**](www.linkedin.com/in/alena-karpova-b479a944)
@@ -15,7 +15,7 @@
 
 I'm a beginner Front-end developer from Cheshire UK
 
-All my completed (pet) projects are available on my GitHhub, while some of them has been deployed on a hosting, so you can also get in touch with me using the Contact section on this web site as well:
+All my completed (pet) projects are available on my GitHhub, while some of them has been deployed on a hosting, so you can also get in touch with me using the Consultation section on this web site as well:
 <https://pulse.akarpova.ru/>
 
 ### Experience
