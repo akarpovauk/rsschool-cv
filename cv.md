@@ -4,12 +4,12 @@
 ### Contact information:
 
 **Phone**: +447477471888  
-**E-mail**:<alena.karpov@gmail.com>    
-[**GitHub**:](https://github.com/akarpovauk)  
-[**Instagram**:](https://www.instagram.com/_true_story._/?hl=ru)  
-[**Telegram**:](https://t.me/alieninuk)  
-[**LinkedIn**:](www.linkedin.com/in/alena-karpova-b479a944)  
-[**Discord**:](Alena_UK#8048)  
+**E-mail**: <alena.karpov@gmail.com>    
+**GitHub**: <https://github.com/akarpovauk>  
+**Discord**: Alena_UK#8048 
+[**Instagram**](https://www.instagram.com/_true_story._/?hl=ru) 
+[**Telegram**](https://t.me/alieninuk) 
+[**LinkedIn**](www.linkedin.com/in/alena-karpova-b479a944)
 
 ### About Myself
 
@@ -24,7 +24,7 @@ I've been working as a QA engineer for more than 7 years in Allied Testing
 (since Sep 2005 till Dec 2012):
 
 > #### QA Engineer
-
+>
 >> **Charls Schwab**  
 >> 2005 - Dec 2009  
 >> - Defect management
@@ -32,7 +32,7 @@ I've been working as a QA engineer for more than 7 years in Allied Testing
 >> - Automated Regression Tests Scenarious Execution
 
 > #### QA Manager
-
+>
 >> **Thomson Reuters**  
 >> 2009 - Dec 2012  
 >> - managing of the remote test groups within the project
@@ -52,13 +52,12 @@ Bachelor's degree - Economics and analisys
 
 #### Completed courses:
 
-[**UDEMY**: WEB-разработчик 2022](https://www.udemy.com/course/webdeveloper/) 
+- [**UDEMY**: WEB-разработчик 2022](https://www.udemy.com/course/webdeveloper/) 
 
 #### Courses in progress:
 
-[**UDEMY**: Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)
-
-**RS Schools** Course «JavaScript/Front-end. Stage 0»  
+- [**UDEMY**: Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)
+- **RS Schools** Course «JavaScript/Front-end. Stage 0»  
 
 ### Skills
 
@@ -80,13 +79,17 @@ Russian - Native
 English - Advanced C2  
 
 > #### Language Certificates
-
+>
 > - EF SET English Certificate: 75/100 (C2 Proficient)  
 > - Trinity College London: CERF Level B1.1 With Distinction  
 
+***
 ### Code example:
 
-```
+*DESCRIPTION*:
+Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+
+```javascript
 function even_or_odd(number) {
   if (number%2 == 0) {
     return "Even";
@@ -95,3 +98,4 @@ function even_or_odd(number) {
   }
 }
 ```
+***
